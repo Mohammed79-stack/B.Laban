@@ -1,0 +1,55 @@
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-1.5vw);
+    }
+}
+  
+
+
+@keyframes rotate {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(3deg); }
+}
+  
+  @keyframes breathe {
+    0%, 100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.03);
+    }
+  }
+  
+
+
+
+  @keyframes moving {
+    
+
+
+    0% {
+
+
+transform: translateX(0);
+
+
+    }
+
+
+
+    100% {
+
+
+      transform: translateX(50%);
+      
+      
+    }
+      
+
+
+
+
+  }
