@@ -308,7 +308,7 @@ header .logo-cover {
 
 .about-us .main-container .heading-title {
   position: absolute;
-  width: 50vw;
+  width: 20vw;
   right: 0;
   bottom: 10vh;
   font-size: 4vw;
@@ -360,13 +360,25 @@ header .logo-cover {
   background-color: #182fff;
   position: relative;
   overflow: hidden;
-  background-image: url("https://scontent.fdmm1-1.fna.fbcdn.net/v/t39.30808-6/474615046_1062103502604122_3330136939023106126_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_iPUvYqdOq4Q7kNvgGHwTn1&_nc_oc=Adg89DAfl3gx_-wA_tADYhWEruuc8JPJ1QSlEMjjeF-vIZwlPPJ3usW10mXhOioHDCSDPyFtJrm6jXM7OA2cZ3Dz&_nc_zt=23&_nc_ht=scontent.fdmm1-1.fna&_nc_gid=AGwpVCn1ns-yWOmgnl0WURB&oh=00_AYBYpJyxlMuhSK2d4BiXkTWHzZQU4J7CtgUs7-fS97VFOA&oe=67CFE258");
+  background-image: url("https://i.pinimg.com/736x/47/a6/a7/47a6a7944be247330d90f4ab69560a2e.jpg");
   background-size: cover;
 }
 
 .about-us .main-container .photo-container :nth-child(2) {
   background-position: right right;
+  height: 32vw;
 }
+
+
+.about-us .main-container .photo-container :nth-child(2) p {
+background-color: white;
+  color: var(--primary-color);
+  position: absolute;
+  bottom: 0;
+  height: 40vh;
+  padding-top: 10px;
+}
+
 
 .about-us .main-container .photo-container .photo-box:nth-child(3) {
   text-shadow: 1px 1px 2px #072f5e27;
