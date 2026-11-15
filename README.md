@@ -38,7 +38,7 @@ This project is a **UI/UX recreation and concept design**, built from scratch wi
  
 - HTML5 and CSS3
 - JavaScript
-- *(Add your tools here, for example: React, Next.js, Tailwind CSS, Vercel)*
+
 ## 🚀 Getting Started
  
 **1. Clone the repo**
