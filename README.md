@@ -48,16 +48,10 @@ git clone https://github.com/Mohammed79-stack/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
 ```
  
-**2. Install dependencies** *(skip this if your project is plain HTML)*
+**2. Run the project**
  
 ```bash
-npm install
-```
- 
-**3. Run the project**
- 
-```bash
-npm run dev
+using live server/from your browser directly
 ```
  
 Then open [http://localhost:3000](http://localhost:3000) in your browser.
